@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.heading{
+  text-align: center;
+  background-color: rgb(44, 44, 44);
+ padding: 100px;
+color: aliceblue;
+}
+.cart-btn{
+  width:80px;
+  height:25px
+}
+.foot{
+  background-color:rgb(44, 44, 44);
+  color: aliceblue;
+  text-align: center;
+  padding: 50px;
+}

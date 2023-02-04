@@ -1,0 +1,21 @@
+.btn-area{
+    display: flex;
+    gap : 1rem;
+    align-items: center;
+    justify-content: center;
+}
+.product-data{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap :1rem;
+
+}
+.top-img{
+    height:250px;
+}
+.cart-no{
+    position:relative;
+   left:1290px;
+   bottom:336px;
+   color:rgb(223, 16, 16);
+}
